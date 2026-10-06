@@ -19,5 +19,7 @@ public class GitTrialrun1Application {
 
         //practicing pull requests
         System.out.println("Greeting from a new member, practicing pull requests");
+
+        System.out.println("trial 1");
     }
 }
