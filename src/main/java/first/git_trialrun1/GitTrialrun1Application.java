@@ -12,5 +12,9 @@ public class GitTrialrun1Application {
         System.out.println("GitTrialrun1Application started");
 
         System.out.println("Testing code changes in git, to practise branching");
+
+        //From here you enter the new branch
+
+        System.out.println("1st branching started");
     }
 }
