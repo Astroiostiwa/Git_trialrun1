@@ -1,0 +1,10 @@
+-- ENCRYPTED DATA BLOCK --
+aW50ZWxsaWogZ2l0IHByYWN0aWNlIHN1Y2Nlc3NmdWw=
+--------------------------
+
+
+
+
+
+
+"Add encrypted vault file"
