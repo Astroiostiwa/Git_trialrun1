@@ -10,5 +10,7 @@ public class GitTrialrun1Application {
         SpringApplication.run(GitTrialrun1Application.class, args);
 
         System.out.println("GitTrialrun1Application started");
+
+        System.out.println("Testing code changes in git, to practise branching");
     }
 }
