@@ -21,5 +21,8 @@ public class GitTrialrun1Application {
         System.out.println("Greeting from a new member, practicing pull requests");
 
         System.out.println("trial 1");
+
+        //trial 2 to create a new branch and adding it to the main branch
+        System.out.println("Trial 2");
     }
 }
