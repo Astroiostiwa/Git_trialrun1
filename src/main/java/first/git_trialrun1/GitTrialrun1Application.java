@@ -16,5 +16,8 @@ public class GitTrialrun1Application {
         //From here you enter the new branch
 
         System.out.println("1st branching started");
+
+        //practicing pull requests
+        System.out.println("Greeting from a new member, practicing pull requests");
     }
 }
